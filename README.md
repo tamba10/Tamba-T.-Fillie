@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamba Tejan Fillie</h1>
-<h3 align="center">Web Technologies Enthusiast | Front-End Engineering | IT Systems Support | Business & IT from Sierra Leone</h3>
+<h3 align="center">Web Technologies Enthusiast | Front-End Engineering | IT Systems Support | Business & IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamba10&label=Profile%20views&color=0e75b6&style=flat" alt="tamba10" /> </p>
 
